@@ -1,4 +1,4 @@
-# ⚔️ Batalla por la Tierra Media - Java RPG
+# ⚔️ Tierra Media - Java RPG
 
 > Un juego de rol por consola basado en el universo de El Señor de los Anillos, desarrollado en Java aplicando principios sólidos de Programación Orientada a Objetos (POO).
 
